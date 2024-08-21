@@ -1,5 +1,5 @@
 import streamlit as st
 
-st.title("Robin Hood")
-st.write("Lets feed the poor!")
-st.write("Collect food crates, Give to the poor, avoid the rich from stealing the food for themselves")
+st.title("Job Giver")
+st.write("Give jobs to people!")
+st.write("give these new graduates good job oppotunities that match their skillsets")
