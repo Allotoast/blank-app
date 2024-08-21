@@ -1,6 +1,4 @@
 import streamlit as st
 
-st.title("🎈 My new app")
-st.write(
-    "Lets feed the poor!"
-)
+st.title("Food Giver")
+st.write("Lets feed the poor!")
